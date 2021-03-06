@@ -1,5 +1,5 @@
-baseurl: "https://example.org/"
-title: "Conference name"
+baseurl: "https://tamiltreebank.github.io/workshop/"
+title: "Workshop on Tamil Treebank Annotation"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -7,14 +7,14 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Conference name"
+  Name: "Workshop on Tamil Treebank Annotation"
   Description: "Conference description"
-  Date: "November 15"
-  Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Coco Bongo"
-  Address: "Boulevard Kukulcan, 30"
-  City:  "Cancún"
-  State: "Quintana"
+  Date: "8-10 April, 2021"
+  #Price: "Only $100" # If your event is free, just comment this line
+  Venue: "Online"
+  #Address: "Boulevard Kukulcan, 30"
+  #City:  "Cancún"
+  #State: "Quintana"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
 
